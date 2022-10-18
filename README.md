@@ -1,5 +1,5 @@
 [![alt-text](https://img.shields.io/badge/Python-3.9-blue)](https://github.com/gih-sanchez/Election-Real-Time)
-[![alt-text](https://img.shields.io/badge/Tests-passing-green)]((https://github.com/gih-sanchez/Election-Real-Time)
+[![alt-text](https://img.shields.io/badge/Tests-passing-green)](https://github.com/gih-sanchez/Election-Real-Time)
 
 <!-- https://shields.io/ -->
 <h1 align="center"> Testeeeee </h1>
