@@ -3,6 +3,7 @@
 
 <!-- https://shields.io/ -->
 <h1 align="center">Candidatos a 2º turno 2022 </h1>
+
 ### Gráfico de dados disponibilizados pelo TSE
 - Link
 
