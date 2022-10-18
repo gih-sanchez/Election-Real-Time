@@ -2,9 +2,9 @@
 [![alt-text](https://img.shields.io/badge/Tests-passing-green)](https://github.com/gih-sanchez/Election-Real-Time)
 
 <!-- https://shields.io/ -->
-<h1 align="center"> Testeeeee </h1>
-<p align="justify"> Escrever descrição, que ficará com texto justificado </p>
-
+<h1 align="center">Candidatos a 2º turno 2022 </h1>
+<p align="justify"> Gráfico de dados disponibilizados pelo TSE </p>
+    - Link
 ### Listas não ordenadas
 - Cadastro de conta com Google
     - Captura de avatar a partir do login ou registro com google
