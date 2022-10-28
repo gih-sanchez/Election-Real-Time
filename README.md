@@ -10,10 +10,12 @@
 
 ### Informações Importantes
 1. Contexto
+
 Neste contexto de eleições, o TSE anda disponibilizando os dados em formato JSON para caso queiram criar um programa para promover a verificação da disputa de uma forma diferente, alcançar mais pessoas possíveis, etc.
 Pensando nisso, eu resolvi criar minha própria API (de forma segura como as outras, sem uso de manipulação de dados) em python e informar ao usuário em tempo real através de um gráfico a porcentagem de votos de  cada candidato.
 
 2. O que é uma API?
+
 Uma API(Application Programming Interface) se trata de programas com a função de conseguir se fazer a comunicação com sistemas, softwares ou outros programas. Dessa forma, é possível entregar uma experiência mais ágil e de melhor uso para outros desenvolvedores possam utilizá-la futuramente.
 
 3. Guia de instalação
